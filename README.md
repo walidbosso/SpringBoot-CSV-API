@@ -60,7 +60,7 @@ Bienvenue dans le projet de lecture de fichier CSV avec Spring Boot et la géné
    ./mvnw spring-boot:run
    ```
 
-4. L'application sera accessible à l'adresse `http://localhost:8080`.
+4. L'application sera accessible à l'adresse `http://localhost:8080`, Test it with Postman, analyse the code to figureout the endpoints.
 
 ## License
 
