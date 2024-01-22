@@ -48,19 +48,12 @@ Bienvenue dans le projet de lecture de fichier CSV avec Spring Boot et la géné
    git clone https://github.com/walidbosso/SpringBoot-CSV-API.git
    ```
 
-2. Accédez au répertoire du projet :
+2. Ouvre le projet dans STS
 
-   ```bash
-   cd SpringBoot-CSV-API
-   ```
+3. Creer Employees Database
 
-3. Compilez et exécutez l'application :
-
-   ```bash
-   ./mvnw spring-boot:run
-   ```
-
-4. L'application sera accessible à l'adresse `http://localhost:8080`, Test it with Postman, analyse the code to figureout the endpoints.
+4. Run as Spring Boot App
+5. L'application sera accessible à l'adresse `http://localhost:8080`, Test it with Postman, analyse the code to figure out the endpoints.
 
 ## License
 
